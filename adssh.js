@@ -5,7 +5,7 @@ const lastShown = localStorage.getItem('lastShown');
 if (!lastShown || (new Date().getDate() !== new Date(lastShown).getDate())) {
   document.body.appendChild(div);
   div.addEventListener('click', () => {
-    window.open('https://www.example.com', '_blank');
+    window.open('https://wavermerchandiseweird.com/tmhxn1z8hi?key=cb608e6e77de0822124056ea60233fe5', '_blank');
     div.classList.add('hidden');
     localStorage.setItem('lastShown', new Date());
     setTimeout(() => {
